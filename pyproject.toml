@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "degree-mapper"
+version = "0.1.0"
+description = "Application that will alllow a student to review their credits against degrees in a specific college or university."
+authors = ["Ansatz Analytics LLC"]
+license = "GNU AGPLv3"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.0.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
