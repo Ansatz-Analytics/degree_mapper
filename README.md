@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/username/repo.svg?branch=master)](https://travis-ci.org/username/repo)
 [![Coverage Status](https://coveralls.io/repos/github/username/repo/badge.svg?branch=master)](https://coveralls.io/github/username/repo?branch=master)
 
-Short project description goes here.
+This project is to showcase my skills and software and data engineer. As of February 20, 2024 it is still on the works. The project uses Python, Django Framework, Docker, Poetry, AWS S3, AWS RDS and Adove API. 
 
 ## Table of Contents
 
